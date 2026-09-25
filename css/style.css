@@ -1,0 +1,15 @@
+.welcome-section{
+    color:blue;
+    background-color: rgb(214, 245, 245);
+    text-align: center; 
+}
+
+body{
+    background-color:rgb(214, 245, 245);
+}
+.about{
+    text-align: center;
+}
+#h{
+    color: crimson;
+}
